@@ -559,7 +559,9 @@ position: relative;
     align-items: baseline;
 
 }
-
+.subscription {
+    margin-left: 93px;
+}
 .subscription-title {
     display: flex;
     margin-bottom: 20px;
